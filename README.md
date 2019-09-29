@@ -6,7 +6,7 @@
 
 ### BehaviorSubject
 
-### RelaySubject
+### ReplaySubject
 
 ### AsyncSubject
 
