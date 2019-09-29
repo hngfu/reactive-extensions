@@ -41,3 +41,47 @@
 #### empty
 
 #### error
+
+### Filtering Operators
+
+#### ignoreElements
+
+#### elementAt
+
+#### filter
+
+#### skip
+
+#### skipWhile
+
+#### skipUntil
+
+#### take
+
+#### takeWhile
+
+#### takeUntil
+
+#### takeLast
+
+#### single
+
+#### distinctUntilChanged
+
+### Transforming Operators
+
+#### toArray
+
+#### map
+
+#### flatMap
+
+#### flatMapFirst
+
+#### flatMapLatest
+
+#### scan
+
+#### buffer
+
+#### window
