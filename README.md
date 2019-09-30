@@ -85,3 +85,23 @@
 #### buffer
 
 #### window
+
+### Combining Operators
+
+#### startWith
+
+#### concat
+
+#### merge
+
+#### combineLatest
+
+#### zip
+
+#### withLatestFrom
+
+#### sample
+
+#### switchLatest
+
+#### reduce
