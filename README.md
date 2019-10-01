@@ -105,3 +105,7 @@
 #### switchLatest
 
 #### reduce
+
+### Conditional Operators
+
+#### amb
