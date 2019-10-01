@@ -109,3 +109,11 @@
 ### Conditional Operators
 
 #### amb
+
+### Time-based Operators
+
+#### interval
+
+#### timer
+
+#### timeout
