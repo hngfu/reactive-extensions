@@ -117,3 +117,9 @@
 #### timer
 
 #### timeout
+
+### Error Handling
+
+#### catchError
+
+#### retry
